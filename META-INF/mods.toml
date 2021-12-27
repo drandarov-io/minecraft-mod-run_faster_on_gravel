@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="None"
+
+[[mods]]
+modId="faster_gravel"
+displayName="faster_gravel"
+version="1.0.0"
+description='''
+
+'''
