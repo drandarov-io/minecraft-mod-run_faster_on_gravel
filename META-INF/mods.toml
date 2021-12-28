@@ -1,11 +1,12 @@
 modLoader="javafml"
-loaderVersion="[1,)"
-license="None"
+loaderVersion="[37,)"
+license="All rights reserved"
 
 [[mods]]
-modId="faster_gravel"
-displayName="faster_gravel"
-version="1.0.0"
+modId="fastergravel"
+version="${file.jarVersion}"
+displayName="Run faster on gravel blocks"
+authors="DahakaMVl"
 description='''
-
+Run faster on gravel blocks.
 '''
